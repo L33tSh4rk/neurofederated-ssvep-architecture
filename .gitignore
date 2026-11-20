@@ -24,3 +24,6 @@ Thumbs.db
 dataset/*.mat
 dataset/*.zip
 
+
+# Dados derivados (gerados por pre-processing.ipynb)
+processed/
